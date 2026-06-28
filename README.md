@@ -4,7 +4,7 @@ Aplicação console em C# para validar pares de hashes informados em uma única 
 
 ## Descrição
 
-Esta ferramenta lê uma linha de entrada contendo pares de hashes separados por ponto-e-vírgula (`;`). Cada par deve ter dois valores separados por vírgula (`,`):
+Esta ferramenta lê uma linha de entrada contendo pares de hashes separados por ponto e vírgula (`;`). Cada par deve ter dois valores separados por vírgula (`,`):
 - hash calculado
 - hash esperado
 
